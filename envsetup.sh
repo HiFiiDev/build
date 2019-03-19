@@ -1659,3 +1659,5 @@ done
 unset f
 
 addcompletions
+
+. "$(gettop)"/vendor/pr/build/envsetup.sh
